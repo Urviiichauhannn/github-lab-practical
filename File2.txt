@@ -1,0 +1,2 @@
+Git is an open-source distributed version control system designed to track chamges in source code during software devlopment.<br>
+Teams collaborate easily.
